@@ -1,3 +1,8 @@
+'''
+Autor:      Lázaro Martínez Abraham Josué
+Fecha:      17 de febrero de 2021
+Titulo:     redGatos.py
+'''
 import numpy as np
 import h5py
 import matplotlib.pyplot as plt 

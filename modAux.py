@@ -1,3 +1,8 @@
+'''
+Autor:      Lázaro Martínez Abraham Josué
+Fecha:      17 de febrero de 2021
+Titulo:     modAux.py
+'''
 import numpy as np
 import matplotlib.pyplot as plt
 import h5py
